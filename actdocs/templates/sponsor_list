@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-xs-12">
         <h3>Sponsors</h3>
-        <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about PTS2019 sponsors</a></small></p>
+        <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about PTS2023 sponsors</a></small></p>
     </div>
 
 

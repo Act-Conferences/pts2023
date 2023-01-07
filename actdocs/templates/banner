@@ -1,5 +1,5 @@
 <h1>[% global.conference.name %]</h1>
-<p>April 25-28, Marlow (UK)/p>
+<p>April 27-26, Lyon (France)/p>
 <p>
 [% UNLESS global.request.user %]
   <a href="[% make_uri('wiki') %]" class="btn btn-primary btn-lg" role="button">Wiki <i class="fa fa-chevron-right"></i></a>
